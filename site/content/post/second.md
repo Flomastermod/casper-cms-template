@@ -6,14 +6,14 @@ title: Second Post
 Mihai Eminescu<br>
 Afară-i toamnă <br>
 
-Afară-i toamnă, frunza 'mprăştiată,<br>
-Iar vântul svârlă 'n geamuri grele picuri;<br>
-Şi tu citeşti scrisori din roase plicuri<br>
-Şi într'un ceas gândeşti la viaţa toată.<br>
+<br>Afară-i toamnă, frunza 'mprăştiată,</br>
+<br>Iar vântul svârlă 'n geamuri grele picuri;</br>
+<br>Şi tu citeşti scrisori din roase plicuri<br></br>
+<br>Şi într'un ceas gândeşti la viaţa toată.<br>
 <br>
-Pierzându-ţi timpul tău cu dulci nimicuri,<br>
+Pierzându-ţi timpul tău cu dulci nimicuri,<br/>
 N'ai vrea ca nimeni 'n uşa ta să bată;<br>
-Dar şi mai bine-i, când afară-i sloată, <br>
+<br/>Dar şi mai bine-i, când afară-i sloată, <br>
 Să stai visând la foc, de somn să picuri.<br>
 <br>
 <br>
